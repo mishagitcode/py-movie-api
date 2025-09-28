@@ -30,3 +30,9 @@ Thumbs.db # Windows
 # Miscellaneous
 *.log
 *.sqlite3 # SQLite database files, if not intended for version control
+
+# Database files
+*.sqlite
+*.sqlite3
+*.db
+*.db3
